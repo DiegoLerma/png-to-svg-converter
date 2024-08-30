@@ -22,7 +22,7 @@ La conversión a SVG se realiza utilizando la biblioteca `potrace`, que rastrea 
 1. **Clona el repositorio**:
 
    ```bash
-   git clone https://github.com/tu-usuario/jpeg-to-svg-converter.git
+   git clone https://github.com/DiegoLerma/jpeg-to-svg-converter.git
    cd jpeg-to-svg-converter
    ```
 
